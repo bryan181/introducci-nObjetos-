@@ -20,7 +20,7 @@ public double areaC(){
 }
 
 public double perimetroC(){
-    return 2*(radioC*3.1416);;
+    return 2*(radioC*3.1416);
 }
 
 }
